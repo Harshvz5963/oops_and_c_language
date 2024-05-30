@@ -8,11 +8,11 @@ class student{
     int d,e;
     void setdata(int a,int b,int c);
     void getdata(){
-        cout<<"the valu of a is "<<a<<endl;
-        cout<<"the valu of b is "<<b<<endl;
-        cout<<"the valu of c is "<<c<<endl;
-        cout<<"the valu of d is "<<d<<endl;
-        cout<<"the valu of e is "<<e<<endl;
+        cout<<"the value of a is "<<a<<endl;
+        cout<<"the value of b is "<<b<<endl;
+        cout<<"the value of c is "<<c<<endl;
+        cout<<"the value of d is "<<d<<endl;
+        cout<<"the value of e is "<<e<<endl;
     }
    
 };
